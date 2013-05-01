@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>speaker1</key>
+	<dict>
+		<key>number</key>
+		<string>1</string>
+		<key>title</key>
+		<string>Mechanisms of Accelerated Biological Aging in Post-Traumatic Stress Disorder</string>
+		<key>time</key>
+		<string>12:30 pm - 1:00 pm</string>
+		<key>authors</key>
+		<string>Aoife O&apos;Donovan, PhD</string>
+		<key>lasts</key>
+		<string>Society in Science: Branco Weiss Fellow, Postdoctoral Fellow in Post-Traumatic Stress Disorders, UCSF, San Francisco Veteran&apos;s Affairs Medical Center</string>
+		<key>abstract</key>
+		<string>Dr. O’Donovan is a Society in Science: Branco Weiss Fellow at the San Francisco VA Medical Center and the Department of Psychiatry, University of California, San Francisco (UCSF). Her research is focused on uncovering how traumatic stress exposure and post-traumatic stress disorder increase risk for chronic diseases of aging such as cardiovascular, autoimmune and neurodegenerative disorders. To this end, she examines the effects of psychological stress on indices and mechanisms of biological aging, including telomere length, an index of biological age, as well as oxidative stress and inflammatory activity, which are mechanisms of biological aging. Her work to date has uncovered potential psychological and biological mechanisms linking psychological stress exposure with accelerated biological aging. In her current work, she is examining if exaggerated neurobiological sensitivity to threat drives accelerated aging in the aftermath of trauma exposure. Dr. O’Donovan received her PhD in Clinical Psychobiology from University College Dublin.</string>
+	</dict>
+	<key>speaker2</key>
+	<dict>
+		<key>number</key>
+		<string>2</string>
+		<key>title</key>
+		<string>The Link Between TBI and Late Cognitive Impairment: What’s the Story?</string>
+		<key>time</key>
+		<string>1:00 pm - 1:30 pm</string>
+		<key>authors</key>
+		<string>Maheen Mausoof Adamson, PhD</string>
+		<key>lasts</key>
+		<string>Director of Research War Related Illness and Injury Study Center (WRIISC), Clinical Assistant Professor, Psychiatry &amp; Behavioral Sciences, Stanford University</string>
+		<key>abstract</key>
+		<string>Dr. Adamson is the Director of Research at the War Related Illness and Injury Study Center (WRIISC) and Clinical Assistant Professor, Psychiatry &amp; Behavioral Sciences at Stanford University.  Dr. Adamson and her team are currently developing the WRIISC clinical neuroimaging research program at the VA Palo Alto by implementing state-of-the art neuroimaging methods along with clinical and cognitive testing that improve the diagnosis and treatment of illnesses affecting our veterans such as TBI and PTSD.</string>
+	</dict>
+	<key>speaker3</key>
+	<dict>
+		<key>number</key>
+		<string>3</string>
+		<key>title</key>
+		<string>Level of Assistance, Decline in Function, and Mortality as a Function of Aging with TBI</string>
+		<key>time</key>
+		<string>1:30 pm - 2:00 pm</string>
+		<key>authors</key>
+		<string>Stephanie Kolakowsky-Hayner, PhD</string>
+		<key>lasts</key>
+		<string>Director of Rehabilitation Research, Rehabilitation Research Center, Santa Clara Valley Medical Center</string>
+		<key>abstract</key>
+		<string>Dr. Kolakowsky-Hayner is the Director of Rehabilitation Research at Santa Clara Valley Medical Center in San Jose, CA.  She is the Project Director of the Northern California Traumatic Brain Injury Model System of Care Follow-up Center and the Northern California Spinal Cord Injury Model System of Care Follow-up Center.  Dr. Kolakowsky-Hayner holds an appointment as a Clinical Assistant Professor Affiliated in the Department of Orthopaedic Surgery, Stanford University School of Medicine.  Dr. Kolakowsky-Hayner’s main interests include peer mentoring, ethnicity and cultural issues, return to work, family and caregiver needs, and substance use after injury. In addition to being the proud mom of 5 school-aged children, she actively serves on American Congress of Rehabilitation Medicine’s Early Career Committee, Early Career Course Planning Committee and Policy and Legislation Committee, and the American Spinal Injury Association’s Prevention Committee.</string>
+	</dict>
+	<key>speaker4</key>
+	<dict>
+		<key>number</key>
+		<string>4</string>
+		<key>title</key>
+		<string>Clinical Perspective on TBI in Aging Veterans</string>
+		<key>time</key>
+		<string>2:00 pm - 2:30 pm</string>
+		<key>authors</key>
+		<string>Oanh N Mandal, MD</string>
+		<key>lasts</key>
+		<string>Polytrauma Network Site, Physical Medicine and RehabilitationVA Palo Alto Healthcare System</string>
+		<key>abstract</key>
+		<string>Dr. Mandal joined the VA Palo Alto in 2009 and is the lead Polytrauma Network Site physiatrist at the Livermore division.  She works with TBI patients, ranging from mild to severe, OEF/OIF as well as Vietnam/Korean/Gulf war veterans. She graduated from Tufts University School of Medicine in Boston and completed her training in Physical Medicine and Rehabilitation at the University of California in Los Angeles (UCLA).</string>
+	</dict>
+</dict>
+</plist>
